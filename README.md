@@ -17,8 +17,35 @@ I can use this commands **anytime** to inspect my project
 
     With `git status` I can see if some changes have happened and if some files are ready to be committed.
     It gives me an overview of the project at that specific moment in time.
+
+    Messages given bu `git status`:
+    - > working tree clean
+
+        This means that no change had happened in our project since our last `git commit`
+
+    - > nothing to commit
+
+        This means that no `git add` has happened yet, so there is no change to commit
+
+    - > Changes to be committed
+
+        This means that we have staged some changes with `git add` and now we need to commit
+
+    - > changes not staged for commit
+
+        This means that we need to use `git add .` to prepare some changes to be committed
+
 - `git log`
+
+    This command shows the commit logs.
+
 - `git diff`
+
+    Shows what changes have happened in our project since the last `git add .`.
+    - Lines marked in **red** are lines that were removed.
+    - Lines marked in **green** are lines that were added.
+
+
 
 ## 3. Initializing a git project
 
