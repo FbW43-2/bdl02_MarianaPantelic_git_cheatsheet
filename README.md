@@ -110,5 +110,13 @@ From now on we can make changes to our files and permanently save those changes.
     To upload on the Github
 
 
+## 6. Clone an existing project
+
+To clone an existent repository locally I can use the command:
+
+~~~
+git clone repository_url
+~~~
+I will not have to 'git init' after I clone the project
 
 
