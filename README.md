@@ -49,7 +49,7 @@ I can use this commands **anytime** to inspect my project
 
 ## 3. Initializing a git project
 
-If any `git` command that we run shows the following output
+If any `git` command that we run shows the following output:
 
 > fatal: not a git repository (or any of the parent directories): .git
 
