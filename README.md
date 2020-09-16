@@ -88,7 +88,7 @@ From now on we can make changes to our files and permanently save those changes.
 
 ## 5. Branching
 
--git branch branch name 
+- git branch branch name 
     To create a new branch
 
 - git checkout branch name 
