@@ -57,7 +57,7 @@ it means that **we are not inside a git project**.
 
 In this case we can:
 
-1. Make sure that you are in the right folder
+1. Make sure that you are in the right folder.
 2. Initialize a git project, run
 
 ```
