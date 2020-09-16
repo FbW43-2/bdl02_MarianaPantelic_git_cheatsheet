@@ -33,7 +33,7 @@ I can use this commands **anytime** to inspect my project
 
     - > changes not staged for commit
 
-        This means that we need to use `git add .` to prepare some changes to be committed
+        This means that we need to use `git add .` to prepare some changes to be committed.
 
 - `git log`
 
