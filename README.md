@@ -2,6 +2,8 @@
 
 ## 1. Navigate to your git project folder
 
+bla bla bla
+
 Use `cd` to move between folders. E.g.:
 
 ```
