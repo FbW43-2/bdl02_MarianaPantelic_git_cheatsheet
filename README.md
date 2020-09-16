@@ -86,6 +86,25 @@ From now on we can make changes to our files and permanently save those changes.
 
     This command sends the committed changes to a server. It is used to upload local repository content to a remote repository.
 
+## 5. Branching
+
+-git branch branch name 
+    To create a new branch
+
+- git checkout branch name 
+    To switch to new branch
+
+- git branch -l 
+    To list the available branches and see which one I am now
+
+- git add -A
+- git commit -m "message"
+    To start adding commits
+
+- git push
+    To upload on the Github
+
+-
 
 
 
